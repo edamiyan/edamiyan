@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/edamiyan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edamiyan&show_icons=true&count_private=true" alt="Edamiyan's 's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edamiyan&langs_count=6&count_private=true&layout=compact" alt="Edamiyan's github top languages"/>
+</a>
+
 <!--
 **edamiyan/edamiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
